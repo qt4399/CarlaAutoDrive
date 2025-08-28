@@ -1,5 +1,5 @@
 #include "../include/visualizer.h"
-#include <string>       // 新增：支持 std::string
+#include <string>      
 #include <functional>
 #include <cmath>
 #include <SDL2/SDL.h>
