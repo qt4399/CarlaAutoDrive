@@ -1,0 +1,6 @@
+<launch>
+    <node pkg="study" type="c++windows.py" name="c++windows"/>
+    <node pkg="study" type="draw_line.py" name="draw_line"/>
+    <node pkg="study" type="generate_map.py" name="generate_map"/>
+    <node pkg="study" type="global_plan.py" name="global_plan"/>
+</launch>
