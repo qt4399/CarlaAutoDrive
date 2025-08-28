@@ -1,2 +1,0 @@
-# CarlaAutoDrive
-基于carla和carla_ros_bridge的一个自动驾驶可视化操作平台，目前开发了很少的一部分
